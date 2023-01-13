@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Nasin
 13/55
 Izmenili 
 14/06
+
+=======
+Master
+13/57
+>>>>>>> 82d79ae (Master 13/59)
+15/05
 
